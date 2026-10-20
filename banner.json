@@ -1,0 +1,15 @@
+
+[
+  {
+    "banner_image": "https://example.com/banner1.jpg",
+    "social": "https://t.me/your_channel"
+  },
+  {
+    "banner_image": "https://example.com/banner2.jpg",
+    "social": "https://facebook.com/your_page"
+  },
+  {
+    "banner_image": "https://example.com/banner3.jpg",
+    "social": "https://github.com/your_project"
+  }
+]
