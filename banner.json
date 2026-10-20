@@ -1,15 +1,15 @@
 
 [
   {
-    "banner_image": "https://example.com/banner1.jpg",
+    "banner_image": "https://i.ibb.co/s9F2Fm7Y/NGVPN-PRO-Banner-1.png",
     "social": "https://t.me/your_channel"
   },
   {
-    "banner_image": "https://example.com/banner2.jpg",
+    "banner_image": "https://i.ibb.co/6RmC3j8W/NGVPN-PRO-Banner-2.png",
     "social": "https://facebook.com/your_page"
   },
   {
-    "banner_image": "https://example.com/banner3.jpg",
+    "banner_image": "https://i.ibb.co/yFvkV77V/NGVPN-PRO-Banner-3.png",
     "social": "https://github.com/your_project"
   }
 ]
